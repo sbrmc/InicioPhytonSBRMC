@@ -1,0 +1,61 @@
+import chess
+import chess.svg
+from IPython.display import SVG, display
+import os
+
+def clear_screen():
+    """Limpa a tela do console."""
+    os.system('cls' if os.name == 'nt' else 'clear')
+
+def print_board(board):
+    """Exibe o tabuleiro de xadrez no console."""
+    clear_screen()
+    print("  a b c d e f g h")
+    print(" +-----------------+")
+    for i in range(8):
+        row = []
+        for j in range(8):
+            piece = board.piece_at(chess.square(j, 7-i))
+            if piece:
+                row.append(piece.symbol())
+            else:
+                row.append(".")
+        print(f"{8-i}|{' '.join(row)}|{8-i}")
+    print(" +-----------------+")
+    print("  a b c d e f g h")
+    print()
+
+def main():
+    board = chess.Board()
+    
+    while not board.is_game_over():
+        print_board(board)
+        
+        # Mostra de quem é a vez
+        print(f"Vez das {'brancas' if board.turn == chess.WHITE else 'pretas'}")
+        
+        # Mostra se há xeque
+        if board.is_check():
+            print("XEQUE!")
+        
+        # Pede a jogada
+        while True:
+            try:
+                move_uci = input("Digite sua jogada (ex: e2e4, g1f3, etc): ").strip()
+                move = chess.Move.from_uci(move_uci)
+                if move in board.legal_moves:
+                    break
+                else:
+                    print("Jogada inválida. Tente novamente.")
+            except ValueError:
+                print("Formato inválido. Use notação UCI (ex: e2e4).")
+        
+        # Executa a jogada
+        board.push(move)
+    
+    print_board(board)
+    print("Fim do jogo!")
+    print("Resultado:", board.result())
+
+if __name__ == "__main__":
+    main()

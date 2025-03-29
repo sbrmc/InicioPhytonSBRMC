@@ -1,0 +1,11 @@
+C:\Users\Silvio\OneDrive\Documentos\TJ Home\STI 2.2.2\Treinamentos\GitHub Copilot Developers\Inicio\MeuProjetoTeste\RegexLib\bin\Debug\net9.0\RegexLib.deps.json
+C:\Users\Silvio\OneDrive\Documentos\TJ Home\STI 2.2.2\Treinamentos\GitHub Copilot Developers\Inicio\MeuProjetoTeste\RegexLib\bin\Debug\net9.0\RegexLib.dll
+C:\Users\Silvio\OneDrive\Documentos\TJ Home\STI 2.2.2\Treinamentos\GitHub Copilot Developers\Inicio\MeuProjetoTeste\RegexLib\bin\Debug\net9.0\RegexLib.pdb
+C:\Users\Silvio\OneDrive\Documentos\TJ Home\STI 2.2.2\Treinamentos\GitHub Copilot Developers\Inicio\MeuProjetoTeste\RegexLib\obj\Debug\net9.0\RegexLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Silvio\OneDrive\Documentos\TJ Home\STI 2.2.2\Treinamentos\GitHub Copilot Developers\Inicio\MeuProjetoTeste\RegexLib\obj\Debug\net9.0\RegexLib.AssemblyInfoInputs.cache
+C:\Users\Silvio\OneDrive\Documentos\TJ Home\STI 2.2.2\Treinamentos\GitHub Copilot Developers\Inicio\MeuProjetoTeste\RegexLib\obj\Debug\net9.0\RegexLib.AssemblyInfo.cs
+C:\Users\Silvio\OneDrive\Documentos\TJ Home\STI 2.2.2\Treinamentos\GitHub Copilot Developers\Inicio\MeuProjetoTeste\RegexLib\obj\Debug\net9.0\RegexLib.csproj.CoreCompileInputs.cache
+C:\Users\Silvio\OneDrive\Documentos\TJ Home\STI 2.2.2\Treinamentos\GitHub Copilot Developers\Inicio\MeuProjetoTeste\RegexLib\obj\Debug\net9.0\RegexLib.dll
+C:\Users\Silvio\OneDrive\Documentos\TJ Home\STI 2.2.2\Treinamentos\GitHub Copilot Developers\Inicio\MeuProjetoTeste\RegexLib\obj\Debug\net9.0\refint\RegexLib.dll
+C:\Users\Silvio\OneDrive\Documentos\TJ Home\STI 2.2.2\Treinamentos\GitHub Copilot Developers\Inicio\MeuProjetoTeste\RegexLib\obj\Debug\net9.0\RegexLib.pdb
+C:\Users\Silvio\OneDrive\Documentos\TJ Home\STI 2.2.2\Treinamentos\GitHub Copilot Developers\Inicio\MeuProjetoTeste\RegexLib\obj\Debug\net9.0\ref\RegexLib.dll

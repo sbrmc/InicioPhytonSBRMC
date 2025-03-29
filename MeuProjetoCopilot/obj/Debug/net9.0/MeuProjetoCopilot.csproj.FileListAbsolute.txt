@@ -1,0 +1,14 @@
+C:\Users\Silvio\OneDrive\Documentos\TJ Home\STI 2.2.2\Treinamentos\GitHub Copilot Developers\Inicio\MeuProjetoCopilot\bin\Debug\net9.0\MeuProjetoCopilot.exe
+C:\Users\Silvio\OneDrive\Documentos\TJ Home\STI 2.2.2\Treinamentos\GitHub Copilot Developers\Inicio\MeuProjetoCopilot\bin\Debug\net9.0\MeuProjetoCopilot.deps.json
+C:\Users\Silvio\OneDrive\Documentos\TJ Home\STI 2.2.2\Treinamentos\GitHub Copilot Developers\Inicio\MeuProjetoCopilot\bin\Debug\net9.0\MeuProjetoCopilot.runtimeconfig.json
+C:\Users\Silvio\OneDrive\Documentos\TJ Home\STI 2.2.2\Treinamentos\GitHub Copilot Developers\Inicio\MeuProjetoCopilot\bin\Debug\net9.0\MeuProjetoCopilot.dll
+C:\Users\Silvio\OneDrive\Documentos\TJ Home\STI 2.2.2\Treinamentos\GitHub Copilot Developers\Inicio\MeuProjetoCopilot\bin\Debug\net9.0\MeuProjetoCopilot.pdb
+C:\Users\Silvio\OneDrive\Documentos\TJ Home\STI 2.2.2\Treinamentos\GitHub Copilot Developers\Inicio\MeuProjetoCopilot\obj\Debug\net9.0\MeuProjetoCopilot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Silvio\OneDrive\Documentos\TJ Home\STI 2.2.2\Treinamentos\GitHub Copilot Developers\Inicio\MeuProjetoCopilot\obj\Debug\net9.0\MeuProjetoCopilot.AssemblyInfoInputs.cache
+C:\Users\Silvio\OneDrive\Documentos\TJ Home\STI 2.2.2\Treinamentos\GitHub Copilot Developers\Inicio\MeuProjetoCopilot\obj\Debug\net9.0\MeuProjetoCopilot.AssemblyInfo.cs
+C:\Users\Silvio\OneDrive\Documentos\TJ Home\STI 2.2.2\Treinamentos\GitHub Copilot Developers\Inicio\MeuProjetoCopilot\obj\Debug\net9.0\MeuProjetoCopilot.csproj.CoreCompileInputs.cache
+C:\Users\Silvio\OneDrive\Documentos\TJ Home\STI 2.2.2\Treinamentos\GitHub Copilot Developers\Inicio\MeuProjetoCopilot\obj\Debug\net9.0\MeuProjetoCopilot.dll
+C:\Users\Silvio\OneDrive\Documentos\TJ Home\STI 2.2.2\Treinamentos\GitHub Copilot Developers\Inicio\MeuProjetoCopilot\obj\Debug\net9.0\refint\MeuProjetoCopilot.dll
+C:\Users\Silvio\OneDrive\Documentos\TJ Home\STI 2.2.2\Treinamentos\GitHub Copilot Developers\Inicio\MeuProjetoCopilot\obj\Debug\net9.0\MeuProjetoCopilot.pdb
+C:\Users\Silvio\OneDrive\Documentos\TJ Home\STI 2.2.2\Treinamentos\GitHub Copilot Developers\Inicio\MeuProjetoCopilot\obj\Debug\net9.0\MeuProjetoCopilot.genruntimeconfig.cache
+C:\Users\Silvio\OneDrive\Documentos\TJ Home\STI 2.2.2\Treinamentos\GitHub Copilot Developers\Inicio\MeuProjetoCopilot\obj\Debug\net9.0\ref\MeuProjetoCopilot.dll
